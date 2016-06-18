@@ -9,7 +9,7 @@ import org.bukkit.plugin.java.JavaPlugin;
 
 public class ModTools extends JavaPlugin {
     
-    //Enable
+    //Enable2
     @Override
     public void onEnable() {
         this.getLogger().info("ModTools enabled correctly");
